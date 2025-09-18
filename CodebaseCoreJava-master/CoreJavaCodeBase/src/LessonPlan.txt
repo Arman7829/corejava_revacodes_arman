@@ -10,7 +10,7 @@ Day 3 - OOPS Concepts
             Scanner Class(2 programs- with user input for each class)
 
 Day 4 - Packages, Access Modifier(2 programs with public, private ,default)
-         instanceOf (1 program)
+         instanceOf (1 progrm)
 
 Day 5 - Inheritance, revision on Packages, Access Modifier/protected(3 programs)
              super keyword,hasA ,isA relationShip(2 programs)
